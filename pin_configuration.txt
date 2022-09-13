@@ -1,0 +1,5 @@
+vibration 1 = pin D8
+vibration 2 = pin D7
+tempereture pin = D4
+power module pin (D5 of the ESP to RX of the PZEM  sensor and D6 of the ESP to TX of the PZEM sensor)
+GPS pin configuration (TX of the ESP to RX of the GPS sensor and RX of the ESP to TX of the GPS sensor)
